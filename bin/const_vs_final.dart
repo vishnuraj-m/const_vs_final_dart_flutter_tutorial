@@ -10,7 +10,7 @@ void main(List<String> arguments) {
   employeeList.add(2);
   // employeeList = [1, 2, 3];
   //! final LIST CAN ONLY SET ONCE BUT LIST VALUES CAN BE ADD OR REMOVE
-  final List<int> employeeList2 = [1, 2, 3];
+  final List<int> employeeLists = [1, 2, 3];
 
   const String studentName = 'Vishnu M';
   // ! Adding an initialization to the declaration of a constant .
